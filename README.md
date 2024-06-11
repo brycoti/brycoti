@@ -61,15 +61,20 @@
 [![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)](https://www.sonarqube.org/)
 
 ### Tools
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+### IA
+[![Codeium](https://img.shields.io/badge/Codeium-4285F4?style=for-the-badge)](https://www.codeium.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-009688?style=for-the-badge)](https://www.chatgpt.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-FFD000?style=for-the-badge)](https://gemini.google.com/app)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brycoti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
